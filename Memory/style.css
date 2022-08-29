@@ -1,0 +1,15 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: bisque;
+}
+
+#intro{
+    margin-left: 20px;
+}
+
+#grid{
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
